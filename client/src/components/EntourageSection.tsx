@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 const EntourageSection = () => {
   const entourageData = {
     parents: [
-      { names: ["Jolly N. Perico", "Arlene Perico"] },
+      { names: ["Jolly N. Perico", "Arlene A. Perico"] },
       { names: ["Renato M. Tatlonghari", "Leslie M. Tatlonghari"] }
     ],
     grandParent: [
